@@ -46,7 +46,7 @@
 [ArtMechanism.cc](http://artmechanism.cc) /
 艺术机制
 
-[ArtHash.cc](http://arthash.cc)
+[ArtHash.cc](http://arthash.cc) /
 艺术哈希
 
 [ArtAlgorithm.cc](http://artalgorithm.cc) /
