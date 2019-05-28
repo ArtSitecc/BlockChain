@@ -123,4 +123,4 @@
 
 [BTC5678.cc](http://btc5678.com) / [BTC5678.cn](http://btc5678.cn) / [BTC5678.cc](http://btc5678.cc) /
 
-[Bit5678.com](bit5678.com) / [Bit5678.cn](bit5678.cn) / [Bit5678.cc](http://bit5678.cc)
+[Bit5678.com](bit5678.com) / [Bit5678.cn](bit5678.cn) / [Bit5678.cc](http://bit5678.cc) /
