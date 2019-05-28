@@ -107,6 +107,7 @@
 [AddBlock.cc](http://addblock.cc) /
 加块传媒
 
+
 [ABlock.art](http://ablock.art) /
 
 [OBlock.art](http://oblock.art) / [OChain.art](http://ochain.art) /
@@ -114,3 +115,8 @@
 [ZBlock.art](http://zblock.art) / [ZChain.art](http://zchain.art) /
 
 [1Block.art](http://1block.art) / [1Chain.art](http://1chain.art) / [1Token.art](http://1token.art) /
+
+
+[BTC5678.cc](http://btc5678.com) / [BTC5678.cn](http://btc5678.cn) / [BTC5678.cc](http://btc5678.cc) /
+
+[Bit5678.com](bit5678.com) / [Bit5678.cn](bit5678.cn) / [Bit5678.cc](http://bit5678.cc)
