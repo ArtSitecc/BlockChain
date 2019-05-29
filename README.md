@@ -79,6 +79,9 @@
 [ArtCyber.cc](http://artcyber.cc) /
 艺术网络 /
 
+[ArtFund.cc](http://artfund.cc) /
+艺术基金 /
+
 [ArtPlatform.cc](http://artplatform.cc) /
 艺术平台 /
 
