@@ -1,3 +1,5 @@
+[BlackChan.cc](http://blackchan.cc) /
+
 [ArtBlockChain.cc](http://artblockchain.cc) / [ArtBlockChain.art](http://artblockchain.art) /
 艺术区块链 /
 
@@ -17,7 +19,7 @@
 艺术奖金 /
 
 [ArtCurrency.cc](http://artcurrency.cc) /
-艺术货币 /
+艺术货币
 
 [ArtDigital.cc](http://artdigital.cc) /
 艺术数字 /
@@ -70,7 +72,7 @@
 [ArtTrust.cc](http://arttrust.cc) /
 艺术信任 /
 
-[Artbelief.cc](http://artbelief.cc) / [ArtFaith.cc](http://artfaith.cc) /
+[ArtBelief.cc](http://artbelief.cc) / [ArtFaith.cc](http://artfaith.cc) /
 艺术信仰 /
 
 [ArtCloud.cc](http://artcloud.cc) /
@@ -110,10 +112,10 @@
 [AddBlock.cc](http://addblock.cc) /
 加块传媒 /
 
-
 [CoinOTC.cc](http://coinotc.cc) /
 币外 /
 
+[ArtUSDT.cc](http://artusdt.cc) / [USDToken.cc](http://usdtoken.cc) / [USDCoin.cc](http://usdcoin.cc) /
 
 [ABlock.art](http://ablock.art) /
 
@@ -123,7 +125,9 @@
 
 [1Block.art](http://1block.art) / [1Chain.art](http://1chain.art) / [1Token.art](http://1token.art) /
 
+[ABCMint.cc](http://abcmint.cc) / [ABCCore.cc](http://abccore.cc) / [ABCCoin.cc](http://abccoin.cc) /
 
 [BTC5678.cc](http://btc5678.com) / [BTC5678.cn](http://btc5678.cn) / [BTC5678.cc](http://btc5678.cc) /
 
-[Bit5678.com](bit5678.com) / [Bit5678.cn](bit5678.cn) / [Bit5678.cc](http://bit5678.cc) /
+[Bit5678.com](http://bit5678.com) / [Bit5678.cn](http://bit5678.cn) / [Bit5678.cc](http://bit5678.cc) /
+
